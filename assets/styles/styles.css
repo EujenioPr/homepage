@@ -3,7 +3,7 @@ html, body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  font-family: 'Segoe UI';
+  font-family: 'Segoe UI', corbel, 'Trebuchet MS', Tahoma;
 }
 
 h1, h2, h3, h4, h5, p {
